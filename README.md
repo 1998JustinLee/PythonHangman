@@ -3,6 +3,8 @@ Hangman game written in Python3
 I wrote this when I was learning Python in 2018
 
 ### Example screen from game
+
+```
 ----------------
 
     |
@@ -12,7 +14,8 @@ I wrote this when I was learning Python in 2018
 
 Guesses: e, t, p
 a l _ b _
-Pick a letter or take a guess
+Pick a letter or take a guess'
+```
 
 The words included in the game are:
     'cat',
