@@ -1,5 +1,6 @@
 #! python3
 import random, re
+from openapi import create_spec
 
 # All available words
 wordBank = [
