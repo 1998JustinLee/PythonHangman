@@ -2,6 +2,7 @@
 import random, re
 from openapi import create_spec
 import json_pattern_validator
+import lodash
 
 # All available words
 wordBank = [
