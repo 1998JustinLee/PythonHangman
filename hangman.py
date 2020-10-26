@@ -1,6 +1,7 @@
 #! python3
 import random, re
 from openapi import create_spec
+import json_pattern_validator
 
 # All available words
 wordBank = [
